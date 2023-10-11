@@ -134,3 +134,4 @@ print(greater_than_5_siblings)
 #4. Interpret the graph
 
 # The graph in figure 3 represents the sentiments of people every day that has a major impact on our world everytime. In short, we always allow ourselves to show our opinions and our knowledge that we learn in a all day basis.
+
